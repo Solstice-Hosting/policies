@@ -7,6 +7,6 @@ This repository is a collection of our [Terms of Service]([https://solsticehosti
 
 Please see the following list of policies and their current status:
 
-- Terms of Service: not up to date
-- Privacy Policiy: not up to date
-- SLA: not up to date
+- **Terms of Service**: $$\color{red}{not \space up \space to \space date}$$
+- **Privacy Policy**: $$\color{red}{not \space up \space to \space date}$$
+- **SLA**: $$\color{red}{not \space up \space to \space date}$$
